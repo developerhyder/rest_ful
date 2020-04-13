@@ -1,3 +1,3 @@
 # rest_ful
 <h2>Rest ful operations for the previous wallet operation</h2>
-<h3> Achieving restful api to do all the operations</h3>
+<h3> Achieving restful api to do all the CRUD operations</h3>
